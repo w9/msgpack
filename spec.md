@@ -63,6 +63,7 @@ This document describes the MessagePack type system, MessagePack formats and con
       * **Timestamp** represents an instantaneous point on the time-line in the world that is independent from time zones or calendars. Maximum precision is nanoseconds.
 
 <a name="types-limitation"/>
+
 ### Limitation
 
 * a value of an Integer object is limited from `-(2^63)` upto `(2^64)-1`
